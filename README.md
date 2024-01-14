@@ -7,7 +7,7 @@
 First of all, download the ssd_mobilenet_v2_quantized_300x300_coco_2019_01_03 model with weights from here https://drive.google.com/file/d/16KlNcpqo-oscIb-ihFJORByxCxQu5FwA/view?usp=sharing
 
 
-## Then set up four environment
+## Then set up the environment
 
 <br/>
 
